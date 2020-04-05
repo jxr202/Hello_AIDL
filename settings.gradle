@@ -1,0 +1,6 @@
+rootProject.name='Hello_AIDL'
+include ':app'
+include ':real_aidl_service'
+include ':real_aidl_client'
+include ':demo-service'
+include ':demo-client'
